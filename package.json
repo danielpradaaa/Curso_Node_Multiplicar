@@ -1,0 +1,14 @@
+{
+  "name": "bases_node",
+  "version": "0.0.1",
+  "description": "Aplicación de línea de comandos.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Prada",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^15.1.0"
+  }
+}
